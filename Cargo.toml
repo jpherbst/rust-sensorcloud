@@ -1,0 +1,9 @@
+[package]
+name = "sensorcloud_test"
+version = "0.1.0"
+authors = ["jonathan"]
+
+[dependencies]
+reqwest = "0.8"
+hyper = "0.11"
+xdr-codec = "0.4"
